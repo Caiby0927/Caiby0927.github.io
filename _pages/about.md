@@ -10,9 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: 江苏南京>
     <p>caibiyu@nuaa.edu.cn</p>
-<!--     <p>College of Computer Science and Technology</p>
-    <p>Nanjing University of Aeronautics and Astronautics</p>
-    <p>NanJing, JiangSu, China</p> -->
+
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
