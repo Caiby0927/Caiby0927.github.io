@@ -19,6 +19,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 ### 个人简介
+--------------------
 * 南京航空航天大学计算机科学与技术学院/人工智能学院/软件学院2022级研究生
 
 * 就读专业为`软件工程专业`
