@@ -8,8 +8,9 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: 江苏南京>
-    <p>caibiyu@nuaa.edu.cn</p>
+  address: 江苏南京
+  >
+    <p><a href="caibiyu@nuaa.edu.cn">caibiyu@nuaa.edu.cn</a></p>
 
 
 news: true  # includes a list of news items
