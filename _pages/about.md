@@ -9,14 +9,16 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>College of Computer Science and Technology</p>
+    <p>caibiyu@nuaa.edu.cn</p>
+    <p>江苏南京</p>
+<!--     <p>College of Computer Science and Technology</p>
     <p>Nanjing University of Aeronautics and Astronautics</p>
-    <p>NanJing, JiangSu, China</p>
+    <p>NanJing, JiangSu, China</p> -->
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 ### 个人简介
