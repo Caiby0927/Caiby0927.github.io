@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>蔡碧瑜</p>
-    <p><a href="caibiyu@nuaa.edu.cn">caibiyu@nuaa.edu.cn</a></p>
+    <p align="center">蔡碧瑜</p>
+    <p align="center"><a href="caibiyu@nuaa.edu.cn">caibiyu@nuaa.edu.cn</a></p>
 
 
 news: true  # includes a list of news items
