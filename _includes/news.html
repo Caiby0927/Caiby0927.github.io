@@ -10,10 +10,11 @@
               {% assign news_limit = news_size %}
               {% endif %}
                 <tr>
-                  <th>起始时间</th>
-                  <th>终止时间</th>
-                  <th>就读院校</th>
+                  <th align="center">起始时间</th>
+                  <th align="center">终止时间</th>
+                  <th align="center">就读院校</th>
                 </tr>
+                <hr />
               {% for item in news limit: news_limit %}
                 <tr>
                   <td>{{ item.begin_date }}</td>
@@ -26,6 +27,7 @@
                     {%- endif %}
                   </td>
                 </tr>
+                <hr />
               {%- endfor %}
               </table>
             </div>
