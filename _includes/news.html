@@ -9,12 +9,12 @@
               {% else %}
               {% assign news_limit = news_size %}
               {% endif %}
-              {% for item in news limit: news_limit %}
                 <tr>
                   <th>起始时间</th>
                   <th>终止时间</th>
                   <th>就读院校</th>
                 </tr>
+              {% for item in news limit: news_limit %}
                 <tr>
                   <td>{{ item.begin_date }}</td>
                   <td>{{ item.end_date }}</td>
