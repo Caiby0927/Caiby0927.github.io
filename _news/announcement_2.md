@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2022.09-now
+begin_date: 2022.09
+end_date: 
 inline: true
 related_posts: false
 ---
